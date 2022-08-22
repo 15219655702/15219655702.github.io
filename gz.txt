@@ -74,3 +74,12 @@
 
 ||acsdk.gameyw.netease.com^
 
+*:42.186.69.74$network
+
+*:42.186.125.168$network
+
+*:223.252.201.39$network
+
+*:106.2.69.253$network
+
+
