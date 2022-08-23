@@ -1,0 +1,82 @@
+127.0.0.1 acsdk.gameyw.netease.com
+
+127.0.0.1 applog.matrix.netease.com
+
+127.0.0.1 applog.game.netease.com
+
+127.0.0.1 g83.update.netease.com
+
+127.0.0.1 applogsg.matrix.netease.com
+
+127.0.0.1 applog-4layer-internal.ntes53.netease.com
+
+127.0.0.1 cn.applog-4layer-internal.ntes53.netease.com
+
+127.0.0.1 g83.proxima.nie.netease.com
+
+127.0.0.1 drpf-g58.proxima.nie.netease.com
+
+127.0.0.1 g37.drpf.x.netease.com
+
+127.0.0.1 drpf-ma75.proxima.nie.netease.com
+
+127.0.0.1 g57.drpf.x.netease.com
+
+127.0.0.1 push.proxima.nie.netease.com
+
+127.0.0.1 drpf-g66.proxima.nie.netease.com
+
+127.0.0.1 drpf-pm03.proxima.nie.netease.com
+
+127.0.0.1 lbc-omega01cn-keyless-proxima.ntes53.netease.com
+
+127.0.0.1 drpf-g94.proxima.nie.netease.com
+
+127.0.0.1 omega01-proxima.ntes53.netease.com
+
+127.0.0.1 drpf-g101naxx1sea.proxima.nie.netease.com
+
+127.0.0.1 sigma-other-cig.proxima.nie.netease.com
+
+127.0.0.1 g79.drpf.x.netease.com
+
+127.0.0.1 l10.drpf.x.netease.com
+
+127.0.0.1 drpf-g37.proxima.nie.netease.com
+
+127.0.0.1 drpf-g83.proxima.nie.netease.com
+
+127.0.0.1 g51.drpf.x.netease.com
+
+127.0.0.1 drpf-l17.proxima.nie.netease.com
+
+127.0.0.1 drpf-g51.proxima.nie.netease.com
+
+127.0.0.1 g17.proxima.nie.netease.com
+
+127.0.0.1 drpf-h65.proxima.nie.netease.com
+
+127.0.0.1 drpf-g78.proxima.nie.netease.com
+
+127.0.0.1 n2.drpf.x.netease.com
+
+127.0.0.1 unisdk.proxima.nie.netease.com
+
+127.0.0.1 drpf-h55.proxima.nie.netease.com
+
+127.0.0.1 h35.drpf.x.netease.com
+
+127.0.0.1 sdkgate.pushv3.netease.com
+
+127.0.0.1 drpf-g18.proxima.nie.netease.com
+
+127.0.0.1 g18.drpf.x.netease.com
+
+127.0.0.1 sigma.proxima.nie.netease.com
+
+127.0.0.1 drpf-g92.proxima.nie.netease.com
+
+127.0.0.1 drpf-h45na.proxima.nie.netease.com
+
+127.0.0.1 h18.drpf.x.netease.com
+
