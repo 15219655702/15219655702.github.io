@@ -4,8 +4,6 @@
 
 127.0.0.1 applog.game.netease.com
 
-127.0.0.1 g83.update.netease.com
-
 127.0.0.1 applogsg.matrix.netease.com
 
 127.0.0.1 applog-4layer-internal.ntes53.netease.com
